@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=C:/Ac6/Workspace/DMA/Inc
+HeaderPath=C:/Ac6/Workspace/STM32F4-DMA/Inc
 HeaderFiles=gpio.h;dma.h;tim.h;stm32f4xx_it.h;stm32f4xx_hal_conf.h;main.h;
-SourcePath=C:/Ac6/Workspace/DMA/Src
+SourcePath=C:/Ac6/Workspace/STM32F4-DMA/Src
 SourceFiles=gpio.h;dma.h;tim.h;stm32f4xx_it.h;stm32f4xx_hal_conf.h;main.h;gpio.c;dma.c;tim.c;stm32f4xx_it.c;stm32f4xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]

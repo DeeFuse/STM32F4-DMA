@@ -10,8 +10,8 @@
 ]>
 
 <targetDefinitions>
-  <board id="dma">
-    <name>DMA</name>
+  <board id="stm32f4-dma">
+    <name>STM32F4-DMA</name>
     <dbgIF>SWD</dbgIF>
     <dbgDEV>ST-Link</dbgDEV>
     <mcuId>stm32f407vgtx</mcuId>

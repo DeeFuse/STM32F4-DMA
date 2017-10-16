@@ -101,7 +101,7 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   MX_DMA_Init();
-  MX_TIM1_Init(); // 4µs -> 250kb/s
+  MX_TIM1_Init();
 
   /* USER CODE BEGIN 2 */
 
